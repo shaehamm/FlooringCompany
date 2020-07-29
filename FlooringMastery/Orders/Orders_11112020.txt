@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,connor,WA,9.25,Wood,400,5.15,4.75,2060.00,1900.00,366.30,4326.30
+3,Test,WA,9.25,Carpet,100,2.25,2.10,225.00,210.00,40.24,475.24

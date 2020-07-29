@@ -1,0 +1,5 @@
+State,StateName,TaxRate
+MN,Minnesota,6.25
+CO,Colorado,7.08
+HI,Hawai'i,10.15
+AZ,Arizona,7.10
